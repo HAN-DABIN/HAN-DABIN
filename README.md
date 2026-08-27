@@ -41,6 +41,28 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+</div>
+
+<br>
+
+<h3 align="center">📊 GitHub Stats 📊</h3>
+
+<div align="center">
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api?username=HAN-DABIN&show_icons=true&theme=transparent&hide_border=true&locale=kr"
+    alt="HAN-DABIN's GitHub stats"
+  />
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=HAN-DABIN&layout=compact&langs_count=6&theme=transparent&hide_border=true&locale=kr"
+    alt="HAN-DABIN's top languages"
+  />
+</div>
+
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
