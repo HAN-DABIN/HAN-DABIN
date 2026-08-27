@@ -3,13 +3,8 @@
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=220&section=header&text=HAN%20DABIN&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=58"
-    alt="HAN DABIN — Backend Developer"
-  />
-
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=2563EB&center=true&vCenter=true&width=620&lines=Building+reliable+backend+systems;Java+%26+Spring+Boot+Developer;Learning+by+shipping+real+projects"
-    alt="Building reliable backend systems"
+    src="./dabin-welcome-transparent.gif"
+    alt="Welcome to Dabin's GitHub"
   />
 </div>
 
