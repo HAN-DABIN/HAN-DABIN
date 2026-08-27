@@ -65,18 +65,6 @@
 
 <br>
 
-<h3 align="center">⏰ Productive Time ⏰</h3>
-
-<div align="center">
-  <img
-    width="340"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HAN-DABIN&theme=github_dark&utcOffset=9"
-    alt="HAN-DABIN's productive time"
-  />
-</div>
-
-<br>
-
 <h3 align="center">📫 Contact 📫</h3>
 
 <div align="center">
